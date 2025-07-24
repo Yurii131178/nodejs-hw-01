@@ -208,5 +208,19 @@
     "phone": "874-726-5722 x89984",
     "email": "Meghan.Smith@gmail.com",
     "job": "National Solutions Officer"
+  },
+  {
+    "id": "3d30d8ac-5f9b-49d3-8227-88611eb7d59b",
+    "name": "Trevor Fisher",
+    "phone": "681.735.3866 x2807",
+    "email": "Thomas13@hotmail.com",
+    "job": "Chief Group Consultant"
+  },
+  {
+    "id": "22a1ffdf-4977-408e-aae1-52fbb90f18af",
+    "name": "Arturo Bergstrom",
+    "phone": "297.380.2662 x1376",
+    "email": "Caesar13@gmail.com",
+    "job": "International Metrics Assistant"
   }
 ]
