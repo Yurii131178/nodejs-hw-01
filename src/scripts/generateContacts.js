@@ -14,4 +14,4 @@ const generateContacts = async (number) => {
   }
 };
 
-generateContacts(20);
+generateContacts(5);
